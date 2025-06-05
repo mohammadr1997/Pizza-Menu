@@ -1,7 +1,7 @@
 ## 🍕 Fast React Pizza.co
 ##### A simple React-based project to display a pizza menu with availability status and dynamic store hours
 
-### 🔗[Live Demo](https://task-management-pearl-iota.vercel.app/)
+### 🔗[Live Demo](https://pizza-menu-eosin.vercel.app/)
 
  ### 🧾 Description
 ##### This application is a basic pizza menu UI built with React. Users can view available pizzas, check prices, and place an order if the shop is open
