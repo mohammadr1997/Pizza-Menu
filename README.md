@@ -26,3 +26,12 @@
 │   └── App.jsx        # Main React component
 ├── README.md
 └── package.json
+
+### 🛠️ Technologies Used
+* ⚛️ React.js
+* 🎨 CSS 3
+* 🧱 HTML5
+
+### 👨‍💻 Author
+###### Mohammad Baghban Rezaee
+###### GitHub:https://github.com/mohammadr1997
