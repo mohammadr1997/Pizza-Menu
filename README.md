@@ -12,6 +12,12 @@
 * Footer content changes dynamically based on current time (store hours: 12:00–22:00)
 * Simple UI styled with CSS
 
+
+### 🛠️ Technologies Used
+* ⚛️ React.js
+* 🎨 CSS 3
+* 🧱 HTML5
+
 ### 🗂️ Project Structure
 
 ```bash
@@ -26,15 +32,7 @@
 │   └── App.jsx        # Main React component
 ├── README.md
 └── package.json
-
-
-
-
-
-### 🛠️ Technologies Used
-* ⚛️ React.js
-* 🎨 CSS 3
-* 🧱 HTML5
+```
 
 ### 👨‍💻 Author
 ###### Mohammad Baghban Rezaee
