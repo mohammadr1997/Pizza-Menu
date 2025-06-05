@@ -13,13 +13,9 @@
 ### 🗂️ Project Structure
 
 ├── public
-
 ├── src
-
 │   ├── images
-
 │   │   ├── funghi.jpg
-
 │   │   ├── margherita.jpg
 │   │   └── ...
 │   ├── data.js        # Pizza data
