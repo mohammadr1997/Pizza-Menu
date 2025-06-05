@@ -12,9 +12,10 @@
 
 ### 🗂️ Project Structure
 
-├── public
-├── src
-│   ├── images
+```bash
+├── public/
+├── src/
+│   ├── images/
 │   │   ├── funghi.jpg
 │   │   ├── margherita.jpg
 │   │   └── ...
